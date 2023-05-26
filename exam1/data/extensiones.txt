@@ -1,0 +1,4 @@
+      5 .gz
+      6 .png
+      2 .tsv
+      8 .txt

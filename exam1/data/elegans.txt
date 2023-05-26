@@ -1,0 +1,202 @@
+ID   ath-MIR166c       standard; RNA; ATH; 139 BP.
+SQ   Sequence 139 BP; 42 A; 28 C; 31 G; 0 T; 38 other;
+ID   osa-MIR160b       standard; RNA; OSA; 139 BP.
+SQ   Sequence 139 BP; 21 A; 33 C; 42 G; 0 T; 43 other;
+ID   zma-MIR156c       standard; RNA; ZMA; 139 BP.
+SQ   Sequence 139 BP; 34 A; 29 C; 38 G; 0 T; 38 other;
+ID   sbi-MIR393a       standard; RNA; SBI; 139 BP.
+SQ   Sequence 139 BP; 30 A; 38 C; 32 G; 0 T; 39 other;
+ID   sbi-MIR166f       standard; RNA; SBI; 139 BP.
+SQ   Sequence 139 BP; 22 A; 36 C; 46 G; 0 T; 35 other;
+ID   osa-MIR818d       standard; RNA; OSA; 139 BP.
+SQ   Sequence 139 BP; 42 A; 25 C; 28 G; 0 T; 44 other;
+ID   mtr-MIR169f       standard; RNA; MTR; 139 BP.
+SQ   Sequence 139 BP; 37 A; 20 C; 29 G; 0 T; 53 other;
+ID   ppt-MIR160i       standard; RNA; PPT; 139 BP.
+SQ   Sequence 139 BP; 29 A; 39 C; 39 G; 0 T; 32 other;
+ID   ppt-MIR1049       standard; RNA; PPT; 139 BP.
+SQ   Sequence 139 BP; 32 A; 38 C; 36 G; 0 T; 33 other;
+ID   oan-mir-7-1       standard; RNA; OAN; 139 BP.
+SQ   Sequence 139 BP; 40 A; 25 C; 33 G; 0 T; 41 other;
+ID   bmo-mir-2752      standard; RNA; BMO; 139 BP.
+SQ   Sequence 139 BP; 25 A; 45 C; 48 G; 0 T; 21 other;
+ID   ghr-MIR393        standard; RNA; GHR; 139 BP.
+SQ   Sequence 139 BP; 35 A; 26 C; 30 G; 0 T; 48 other;
+ID   cqu-mir-1889      standard; RNA; CQU; 139 BP.
+SQ   Sequence 139 BP; 33 A; 36 C; 32 G; 0 T; 38 other;
+ID   cqu-mir-316       standard; RNA; CQU; 139 BP.
+SQ   Sequence 139 BP; 40 A; 38 C; 27 G; 0 T; 34 other;
+ID   bmo-mir-3225      standard; RNA; BMO; 139 BP.
+SQ   Sequence 139 BP; 43 A; 16 C; 27 G; 0 T; 53 other;
+ID   bmo-mir-3307      standard; RNA; BMO; 139 BP.
+SQ   Sequence 139 BP; 28 A; 30 C; 31 G; 0 T; 50 other;
+ID   bmo-mir-3317      standard; RNA; BMO; 139 BP.
+SQ   Sequence 139 BP; 36 A; 27 C; 35 G; 0 T; 41 other;
+ID   ath-MIR774b       standard; RNA; ATH; 139 BP.
+SQ   Sequence 139 BP; 40 A; 15 C; 24 G; 0 T; 60 other;
+ID   esi-MIR3454c      standard; RNA; ESI; 139 BP.
+SQ   Sequence 139 BP; 26 A; 42 C; 41 G; 0 T; 30 other;
+ID   ahy-MIR156c       standard; RNA; AHY; 139 BP.
+SQ   Sequence 139 BP; 39 A; 24 C; 28 G; 0 T; 48 other;
+ID   ame-mir-3761      standard; RNA; AME; 139 BP.
+SQ   Sequence 139 BP; 29 A; 27 C; 37 G; 0 T; 46 other;
+ID   ame-mir-9c        standard; RNA; AME; 139 BP.
+SQ   Sequence 139 BP; 41 A; 25 C; 28 G; 0 T; 45 other;
+ID   gma-MIR1520p      standard; RNA; GMA; 139 BP.
+SQ   Sequence 139 BP; 49 A; 21 C; 22 G; 0 T; 47 other;
+ID   hsa-mir-3976      standard; RNA; HSA; 139 BP.
+SQ   Sequence 139 BP; 38 A; 19 C; 37 G; 0 T; 45 other;
+ID   tcc-MIR169h       standard; RNA; TCC; 139 BP.
+SQ   Sequence 139 BP; 37 A; 35 C; 31 G; 0 T; 36 other;
+ID   mtr-MIR172c       standard; RNA; MTR; 139 BP.
+SQ   Sequence 139 BP; 41 A; 22 C; 28 G; 0 T; 48 other;
+ID   rmi-mir-5331      standard; RNA; RMI; 139 BP.
+SQ   Sequence 139 BP; 28 A; 33 C; 53 G; 0 T; 25 other;
+ID   gma-MIR396k       standard; RNA; GMA; 139 BP.
+SQ   Sequence 139 BP; 33 A; 34 C; 23 G; 0 T; 49 other;
+ID   gma-MIR399e       standard; RNA; GMA; 139 BP.
+SQ   Sequence 139 BP; 34 A; 33 C; 29 G; 0 T; 43 other;
+ID   lus-MIR399c       standard; RNA; LUS; 139 BP.
+SQ   Sequence 139 BP; 34 A; 34 C; 34 G; 0 T; 37 other;
+ID   lus-MIR169l       standard; RNA; LUS; 139 BP.
+SQ   Sequence 139 BP; 24 A; 24 C; 38 G; 0 T; 53 other;
+ID   nta-MIR166b       standard; RNA; NTA; 139 BP.
+SQ   Sequence 139 BP; 38 A; 33 C; 26 G; 0 T; 42 other;
+ID   nta-MIR396a       standard; RNA; NTA; 139 BP.
+SQ   Sequence 139 BP; 50 A; 19 C; 23 G; 0 T; 47 other;
+ID   hbr-MIR6170       standard; RNA; HBR; 139 BP.
+SQ   Sequence 139 BP; 33 A; 30 C; 31 G; 0 T; 45 other;
+ID   rno-mir-6314      standard; RNA; RNO; 139 BP.
+SQ   Sequence 139 BP; 23 A; 31 C; 46 G; 0 T; 39 other;
+ID   rno-mir-1298      standard; RNA; RNO; 139 BP.
+SQ   Sequence 139 BP; 38 A; 25 C; 35 G; 0 T; 41 other;
+ID   rno-mir-6330      standard; RNA; RNO; 139 BP.
+SQ   Sequence 139 BP; 40 A; 28 C; 34 G; 0 T; 37 other;
+ID   ptc-MIR6430       standard; RNA; PTC; 139 BP.
+SQ   Sequence 139 BP; 40 A; 24 C; 29 G; 0 T; 46 other;
+ID   gga-mir-6649      standard; RNA; GGA; 139 BP.
+SQ   Sequence 139 BP; 27 A; 26 C; 46 G; 0 T; 40 other;
+ID   mdm-MIR167j       standard; RNA; MDM; 139 BP.
+SQ   Sequence 139 BP; 34 A; 32 C; 30 G; 0 T; 43 other;
+ID   mes-MIR169ac      standard; RNA; MES; 139 BP.
+SQ   Sequence 139 BP; 34 A; 28 C; 36 G; 0 T; 41 other;
+ID   bdi-MIR7719       standard; RNA; BDI; 139 BP.
+SQ   Sequence 139 BP; 42 A; 25 C; 28 G; 0 T; 44 other;
+ID   stu-MIR7995       standard; RNA; STU; 139 BP.
+SQ   Sequence 139 BP; 50 A; 16 C; 25 G; 0 T; 48 other;
+ID   mmu-mir-8091      standard; RNA; MMU; 139 BP.
+SQ   Sequence 139 BP; 25 A; 21 C; 41 G; 0 T; 52 other;
+ID   mmu-mir-8102      standard; RNA; MMU; 139 BP.
+SQ   Sequence 139 BP; 24 A; 51 C; 47 G; 0 T; 17 other;
+ID   mmu-mir-8106      standard; RNA; MMU; 139 BP.
+SQ   Sequence 139 BP; 39 A; 24 C; 34 G; 0 T; 42 other;
+ID   mmu-mir-8120      standard; RNA; MMU; 139 BP.
+SQ   Sequence 139 BP; 20 A; 49 C; 40 G; 0 T; 30 other;
+ID   gra-MIR8695       standard; RNA; GRA; 139 BP.
+SQ   Sequence 139 BP; 56 A; 20 C; 17 G; 0 T; 46 other;
+ID   cfa-mir-8824      standard; RNA; CFA; 139 BP.
+SQ   Sequence 139 BP; 27 A; 31 C; 42 G; 0 T; 39 other;
+ID   cfa-mir-1249      standard; RNA; CFA; 139 BP.
+SQ   Sequence 139 BP; 23 A; 50 C; 34 G; 0 T; 32 other;
+ID   cfa-mir-8833      standard; RNA; CFA; 139 BP.
+SQ   Sequence 139 BP; 20 A; 46 C; 52 G; 0 T; 21 other;
+ID   cfa-mir-8858      standard; RNA; CFA; 139 BP.
+SQ   Sequence 139 BP; 30 A; 29 C; 48 G; 0 T; 32 other;
+ID   cfa-mir-8859b     standard; RNA; CFA; 139 BP.
+SQ   Sequence 139 BP; 12 A; 50 C; 49 G; 0 T; 28 other;
+ID   cfa-mir-889       standard; RNA; CFA; 139 BP.
+SQ   Sequence 139 BP; 33 A; 28 C; 29 G; 0 T; 49 other;
+ID   cfa-mir-2483      standard; RNA; CFA; 139 BP.
+SQ   Sequence 139 BP; 34 A; 24 C; 32 G; 0 T; 49 other;
+ID   eca-mir-8946      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 23 A; 45 C; 47 G; 0 T; 24 other;
+ID   eca-mir-8958      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 29 A; 27 C; 40 G; 0 T; 43 other;
+ID   eca-mir-8974      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 38 A; 27 C; 36 G; 0 T; 38 other;
+ID   eca-mir-8982      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 26 A; 41 C; 51 G; 0 T; 21 other;
+ID   eca-mir-8997      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 19 A; 53 C; 37 G; 0 T; 30 other;
+ID   eca-mir-9014-1    standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 39 A; 29 C; 39 G; 0 T; 32 other;
+ID   eca-mir-9018      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 45 A; 24 C; 22 G; 0 T; 48 other;
+ID   eca-mir-9041      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 34 A; 31 C; 36 G; 0 T; 38 other;
+ID   eca-mir-9057      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 25 A; 49 C; 40 G; 0 T; 25 other;
+ID   eca-mir-9060      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 23 A; 40 C; 39 G; 0 T; 37 other;
+ID   eca-mir-9064      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 25 A; 32 C; 42 G; 0 T; 40 other;
+ID   eca-mir-9072      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 28 A; 39 C; 44 G; 0 T; 28 other;
+ID   eca-mir-9080      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 38 A; 29 C; 33 G; 0 T; 39 other;
+ID   eca-mir-9099      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 24 A; 36 C; 40 G; 0 T; 39 other;
+ID   eca-mir-9104      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 23 A; 33 C; 53 G; 0 T; 30 other;
+ID   eca-mir-9126      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 32 A; 34 C; 33 G; 0 T; 40 other;
+ID   eca-mir-9133      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 21 A; 31 C; 50 G; 0 T; 37 other;
+ID   eca-mir-7177b     standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 40 A; 33 C; 27 G; 0 T; 39 other;
+ID   eca-mir-8908d-2   standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 35 A; 30 C; 37 G; 0 T; 37 other;
+ID   eca-mir-1911      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 23 A; 46 C; 31 G; 0 T; 39 other;
+ID   eca-mir-9159      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 35 A; 29 C; 36 G; 0 T; 39 other;
+ID   eca-mir-9160      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 40 A; 35 C; 22 G; 0 T; 42 other;
+ID   eca-mir-9162      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 35 A; 42 C; 38 G; 0 T; 24 other;
+ID   eca-mir-9178      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 29 A; 34 C; 31 G; 0 T; 45 other;
+ID   eca-mir-9182      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 27 A; 31 C; 27 G; 0 T; 54 other;
+ID   eca-mir-9183      standard; RNA; ECA; 139 BP.
+SQ   Sequence 139 BP; 21 A; 42 C; 41 G; 0 T; 35 other;
+ID   bma-mir-9501      standard; RNA; BMA; 139 BP.
+SQ   Sequence 139 BP; 50 A; 25 C; 25 G; 0 T; 39 other;
+ID   tae-MIR9668       standard; RNA; TAE; 139 BP.
+SQ   Sequence 139 BP; 49 A; 29 C; 25 G; 0 T; 36 other;
+ID   gma-MIR9724       standard; RNA; GMA; 139 BP.
+SQ   Sequence 139 BP; 45 A; 28 C; 27 G; 0 T; 39 other;
+ID   gma-MIR9746i      standard; RNA; GMA; 139 BP.
+SQ   Sequence 139 BP; 46 A; 20 C; 25 G; 0 T; 48 other;
+ID   gra-MIR827b       standard; RNA; GRA; 139 BP.
+SQ   Sequence 139 BP; 40 A; 28 C; 24 G; 0 T; 47 other;
+ID   tae-MIR9677b      standard; RNA; TAE; 139 BP.
+SQ   Sequence 139 BP; 26 A; 36 C; 53 G; 0 T; 24 other;
+ID   ata-MIR390        standard; RNA; ATA; 139 BP.
+SQ   Sequence 139 BP; 28 A; 39 C; 38 G; 0 T; 34 other;
+ID   cja-mir-199-1     standard; RNA; CJA; 139 BP.
+SQ   Sequence 139 BP; 24 A; 42 C; 49 G; 0 T; 24 other;
+ID   cja-mir-9910      standard; RNA; CJA; 139 BP.
+SQ   Sequence 139 BP; 27 A; 37 C; 46 G; 0 T; 29 other;
+ID   eun-MIR482b       standard; RNA; EUN; 139 BP.
+SQ   Sequence 139 BP; 28 A; 35 C; 40 G; 0 T; 36 other;
+ID   sfr-mir-10454h    standard; RNA; SFR; 139 BP.
+SQ   Sequence 139 BP; 38 A; 24 C; 31 G; 0 T; 46 other;
+ID   lja-MIR11080      standard; RNA; LJA; 139 BP.
+SQ   Sequence 139 BP; 47 A; 20 C; 16 G; 0 T; 56 other;
+ID   lja-MIR11108o     standard; RNA; LJA; 139 BP.
+SQ   Sequence 139 BP; 48 A; 16 C; 16 G; 0 T; 59 other;
+ID   fve-MIR168        standard; RNA; FVE; 139 BP.
+SQ   Sequence 139 BP; 27 A; 32 C; 47 G; 0 T; 33 other;
+ID   fve-MIR397        standard; RNA; FVE; 139 BP.
+SQ   Sequence 139 BP; 33 A; 29 C; 33 G; 0 T; 44 other;
+ID   pab-MIR482p       standard; RNA; PAB; 139 BP.
+SQ   Sequence 139 BP; 26 A; 38 C; 37 G; 0 T; 38 other;
+ID   pab-MIR3627g      standard; RNA; PAB; 139 BP.
+SQ   Sequence 139 BP; 28 A; 30 C; 37 G; 0 T; 44 other;
+ID   pab-MIR3627h      standard; RNA; PAB; 139 BP.
+SQ   Sequence 139 BP; 29 A; 30 C; 36 G; 0 T; 44 other;
+ID   tca-mir-11624a-2  standard; RNA; TCA; 139 BP.
+SQ   Sequence 139 BP; 48 A; 20 C; 19 G; 0 T; 52 other;
+ID   csi-MIR171d       standard; RNA; CSI; 139 BP.
+SQ   Sequence 139 BP; 35 A; 32 C; 32 G; 0 T; 40 other;
