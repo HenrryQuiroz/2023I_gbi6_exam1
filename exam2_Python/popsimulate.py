@@ -19,12 +19,13 @@ def build_population(N, p): # Se define la función "build_population" que const
 
 
 #_________________ Función 2
-def compute_frequencies(population): 
-    AA = population.count(("A", "A"))
-    Aa = population.count(("A", "a"))
-    aA = population.count(("a", "A"))
-    aa = population.count(("a", "a"))
-    return({"AA": AA, "aa": aa, "Aa": Aa, "aA": aA})
+def compute_frequencies(population): # Se define la función "compute_frequencies" que calculará las frecuencias de los diferentes genotipos en una pobación dada,
+    # donde variable "population" es una lista de tuplas que representan a la población.
+    AA = population.count(("A", "A")) # Se cuenta el número de veces que la tupla ("A","A") aparecese en la lista de "población" y lo guarda en la variable "AA".
+    Aa = population.count(("A", "a")) # Se cuenta el número de veces que la tupla ("A","a") aparecese en la lista de "población" y lo guarda en la variable "Aa".
+    aA = population.count(("a", "A")) # Se cuenta el número de veces que la tupla ("a","A") aparecese en la lista de "población" y lo guarda en la variable "aA".
+    aa = population.count(("a", "a")) # Se cuenta el número de veces que la tupla ("a","a") aparecese en la lista de "población" y lo guarda en la variable "aa"
+    return({"AA": AA, "aa": aa, "Aa": Aa, "aA": aA}) # Devuelve el número de veces que se ha repetido cada genotipo de la variable "poblacion"
 
 #_________________ Función 3
 def reproduce_population(population):
