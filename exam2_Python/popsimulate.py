@@ -1,18 +1,25 @@
-#_________________ Función 1
-def build_population(N, p):
-    population = []
-    for i in range(N):
-        allele1 = "A"
-        if scipy.random.rand() > p:
-            allele1 = "a"
-        allele2 = "A"
-        if scipy.random.rand() > p:
-            allele2 = "a"
-        population.append((allele1, allele2))
-    return population
+#_____________ Función 1
+import numpy as  np # Importamos el módulo "Numpy" y lo guardamos como "np"
+np.random.seed(20) # Luego generamos una matriz de numeros random en una semilla cualquiera
+def build_population(N, p): # Se define la función "build_population" que construirá una población de tamaño "N", donde cada
+#individuo tiene dos alelos y "p" que será la praobabilidad que un alelo sea `` en ves de `A`.
+    population = [] # iniciará una lista vacía "population" en la cual se almacenará los individuos de la población.
+    for i in range(N): # Se inicia un bucle donde se ejecutará "N" veces, donde "i" toma los valores "N-1". Esto asegura que se construirá "N" individuos para la población.
+        allele1 = "A" # llamamos a la variable "allele1" del individuo actual con el valor "A" que sería el alelo dominante.
+        if np.random.random() > p: # Se genera un número aleatorio entre 0 y 1 utilizando la función `random()´ del módulo `numpy.random´. Si este número aleatorio es mayor que "p",
+            # se ejecutará la siguiente linea de código, de lo contrario, no.
+            allele1 = "a" # Si el número aleatorio generado es mayor que `p´, el alelo1 se establece como "a" que sería el alelo recesivo.
+        allele2 = "A" # Llamamos a la variable "allele2" del individu actual son el valor "A" que sería el alelo dominante.
+        if np.random.random() > p: # Se genera otro número aleatorio entre 0 y 1 utilizando la función `random()´ del módulo `numpy.random´. Si este número aleatorio es mayor que "p",
+            # se ejecutará la siguiente linea de código, de lo contrario, no.
+            allele2 = "a" # Si el número aleatorio generado es mayor que `p´, el alelo2 se establece como "a" que sería el alelo recesivo.
+        population.append((allele1, allele2)) # Se genera una tupla que contiene los valores de "allele1" y "allele2" a la lista de "population". Cada tupla representa un individuo
+        # de la población
+    return population # Devuelve a la lista "population", que representa la población genética completa con "N" individuos.
+
 
 #_________________ Función 2
-def compute_frequencies(population):
+def compute_frequencies(population): 
     AA = population.count(("A", "A"))
     Aa = population.count(("A", "a"))
     aA = population.count(("a", "A"))
