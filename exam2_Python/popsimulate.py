@@ -28,16 +28,21 @@ def compute_frequencies(population): # Se define la función "compute_frequencie
     return({"AA": AA, "aa": aa, "Aa": Aa, "aA": aA}) # Devuelve el número de veces que se ha repetido cada genotipo de la variable "poblacion"
 
 #_________________ Función 3
-def reproduce_population(population):
-    new_generation = []
-    N = len(population)
-    for i in range(N):
-        dad = np.random.randint(N)
-        mom = np.random.randint(N)
-        chr_mom = np.random.randint(2)
-        offspring = (population[mom][chr_mom], population[dad][1 - chr_mom])
-        new_generation.append(offspring)
-    return new_generation
+def reproduce_population(population): # Se define la función "reproduce_population" que simulará el proceso de reproducción en una población dada tomando como parámetro
+    # "population" que será una lista de tuplas de genotipos.
+    new_generation = [] # Se define una variable "new_generatio" que será una lista vacía donde se almacenará la reprodución.
+    N = len(population) # Se define una variable "N" donde se contará el tamaño de la poblaciòn actual.
+    for i in range(N): # Se inicia un bucle que ejecutará "N" veces, donde "i" toma valore desde 0 hasta "N-1". Esto nos dice que se generará "N" decendintes.
+        dad = np.random.randint(N) # Se define la vaiable "dad" donde se selecciona aleatoriamente un índice de individuo(del padre) en el rango 0 a "N-1",
+        # utilizando la función "randint()" del módulo "numpy.random". Representa la selecciòn del padre.
+        mom = np.random.randint(N) # Se define la vaiable "mom" donde se selecciona aleatoriamente un índice de individuo(de la madre) en el rango 0 a "N-1",
+        # utilizando la función "randint()" del módulo "numpy.random". Representa la selecciòn de la madre.
+        chr_mom = np.random.randint(2) # Se define la variable "chr_mom" donde se seleccionará un varon dentro de 0 a 1 el cual representará el cromosoma que se hereda de la madre.
+        # esta función determina el alelo que se tomará del genotipo de la madre.
+        offspring = (population[mom][chr_mom], population[dad][1 - chr_mom]) # Se define la variable "offspring" donde crea una tupla que represetna el genotipo del descendiente.
+        # el primer elemento "population[mom][chr_mom]" toma el genotipo de la madre y el segundo elemento "population[dad][1 - chr_mom]" toma el genotipo del padre.
+        new_generation.append(offspring) # Se genera una tupla "offspring" a la lista "new_generation" la cual representa los individuos generados
+    return new_generation # Devuelve la lista "new_generation" la cual es la nueva generación.
 
 #_________________ Función 4
 def simulate_drift(N, p):
